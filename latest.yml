@@ -1,10 +1,10 @@
-version: 1.3.1
+version: 1.3.2
 files:
-  - url: https://ghproxy.net/https://github.com/liuyunao937-afk/zuojiashou-release/releases/download/v1.3.1/zuojiashou-setup-1.3.1.exe
-    sha512: Xqbenwe5T26oXM8jlzGUxu6S8vfnqOwsn2H+7xKArzUsvLuYFfeNLund/2K+MmVtRBxVRk7mVPwDDrrdtIXBjA==
-    size: 123488361
-path: zuojiashou-setup-1.3.1.exe
-sha512: Xqbenwe5T26oXM8jlzGUxu6S8vfnqOwsn2H+7xKArzUsvLuYFfeNLund/2K+MmVtRBxVRk7mVPwDDrrdtIXBjA==
-releaseDate: '2026-10-15T20:25:06.483Z'
+  - url: https://ghproxy.net/https://github.com/liuyunao937-afk/zuojiashou-release/releases/download/v1.3.2/zuojiashou-setup-1.3.2.exe
+    sha512: oi//5ppCuz9P/9X9I7u2rufKVQWE7U4/jmg9b2VdUulQAORMbq8BMDF+ZWqZnilT0Kn/Z3z+dmufAXBp/u9IGQ==
+    size: 123489422
+path: zuojiashou-setup-1.3.2.exe
+sha512: oi//5ppCuz9P/9X9I7u2rufKVQWE7U4/jmg9b2VdUulQAORMbq8BMDF+ZWqZnilT0Kn/Z3z+dmufAXBp/u9IGQ==
+releaseDate: '2026-10-15T20:52:56.996Z'
 releaseNotes: |-
-  更新徽章照搬ZCode修复：左上角常驻绿药丸、点击可开对话框（no-drag）、hover更新日志富卡片
+  更新徽章重设计：移至标题栏右侧窗口按钮旁＋呼吸光醒目提示；修复hover日志卡片透明背景；补齐深色主题边框
