@@ -1,1 +1,8 @@
-{"version":"1.2.1","date":"2026-10-16","notes":"API配置协议自动识别＋自动更新系统","installer":"https://ghproxy.net/https://github.com/liuyunao937-afk/zuojiashou-release/releases/download/v1.2.1/zuojiashou-setup-1.2.1.exe","portable":"https://ghproxy.net/https://github.com/liuyunao937-afk/zuojiashou-release/releases/download/v1.2.1/zuojiashou-portable-1.2.1.exe","page":"https://github.com/liuyunao937-afk/zuojiashou-release/releases/tag/v1.2.1"}
+{
+  "version": "1.2.1",
+  "date": "2026-10-15",
+  "notes": "API配置协议自动识别＋自动更新系统",
+  "installer": "https://ghproxy.net/https://github.com/liuyunao937-afk/zuojiashou-release/releases/download/v1.2.1/zuojiashou-setup-1.2.1.exe",
+  "portable": "https://ghproxy.net/https://github.com/liuyunao937-afk/zuojiashou-release/releases/download/v1.2.1/zuojiashou-portable-1.2.1.exe",
+  "page": "https://github.com/liuyunao937-afk/zuojiashou-release/releases/tag/v1.2.1"
+}
