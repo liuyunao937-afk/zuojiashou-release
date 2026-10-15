@@ -1,10 +1,10 @@
-version: 1.3.8
+version: 1.3.9
 files:
-  - url: https://ghproxy.net/https://github.com/liuyunao937-afk/zuojiashou-release/releases/download/v1.3.8/zuojiashou-setup-1.3.8.exe
-    sha512: cMBFXCl+MiuHeGJBn/GSYLjdMMq2+QuY1xtQhNVniUFIDo3E8S3gVVpB+PTCCj9OHYQXuDWxNT6kEwLndqQGzQ==
-    size: 123489098
-path: zuojiashou-setup-1.3.8.exe
-sha512: cMBFXCl+MiuHeGJBn/GSYLjdMMq2+QuY1xtQhNVniUFIDo3E8S3gVVpB+PTCCj9OHYQXuDWxNT6kEwLndqQGzQ==
-releaseDate: '2026-10-15T22:59:56.194Z'
+  - url: https://ghproxy.net/https://github.com/liuyunao937-afk/zuojiashou-release/releases/download/v1.3.9/zuojiashou-setup-1.3.9.exe
+    sha512: bDYUeMCjc9aA6gBdCbT8wjl6+/g7TdtMa1rgMkaJ1uq5g04IYbz+8N2AZRX7C9axSvft4Zqvv4NlaaD136zRcQ==
+    size: 123490515
+path: zuojiashou-setup-1.3.9.exe
+sha512: bDYUeMCjc9aA6gBdCbT8wjl6+/g7TdtMa1rgMkaJ1uq5g04IYbz+8N2AZRX7C9axSvft4Zqvv4NlaaD136zRcQ==
+releaseDate: '2026-10-15T23:11:16.396Z'
 releaseNotes: |-
-  更新稳定性根治：更新流量绕开系统代理直连（代理环境不再掐更新下载）
+  更新链路根治：检查走jsDelivr、安装包下载改自研Node直连（实测ghproxy防火墙掐Chromium指纹，Node直连畅通）、点击重启以更新拉起安装向导（ZCode同款）——任何代理环境下稳定
