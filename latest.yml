@@ -1,10 +1,10 @@
-version: 1.3.11
+version: 1.3.12
 files:
-  - url: https://ghproxy.net/https://github.com/liuyunao937-afk/zuojiashou-release/releases/download/v1.3.11/zuojiashou-setup-1.3.11.exe
-    sha512: m/CsVT+i1AboscPrHnAYKRH7vlf7Ca4MZyCOQKWVSxmYNTSY002Zpc81da5X7sw5obQX1I8I7+rYgSN0+DPpMQ==
-    size: 131845914
-path: zuojiashou-setup-1.3.11.exe
-sha512: m/CsVT+i1AboscPrHnAYKRH7vlf7Ca4MZyCOQKWVSxmYNTSY002Zpc81da5X7sw5obQX1I8I7+rYgSN0+DPpMQ==
-releaseDate: '2026-10-16T05:17:39.030Z'
+  - url: https://ghproxy.net/https://github.com/liuyunao937-afk/zuojiashou-release/releases/download/v1.3.12/zuojiashou-setup-1.3.12.exe
+    sha512: fcRdzwWPNAUjhb3rPipu5tbzAtBmUqK9P51c4upZqF4zdcUK/gQ9wgWvbHMFMGdTIg9SgH/1RoD9pmO/A1RjQA==
+    size: 131845961
+path: zuojiashou-setup-1.3.12.exe
+sha512: fcRdzwWPNAUjhb3rPipu5tbzAtBmUqK9P51c4upZqF4zdcUK/gQ9wgWvbHMFMGdTIg9SgH/1RoD9pmO/A1RjQA==
+releaseDate: '2026-10-16T08:15:23.626Z'
 releaseNotes: |-
-  便携运行环境隔离用户目录依赖（PYTHONNOUSERSITE），任何电脑稳定
+  完整包升级兼容：向量环境支持数据目录定位，安装向导升级后功能不丢
