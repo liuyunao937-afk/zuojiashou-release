@@ -1,10 +1,10 @@
-version: 1.3.10
+version: 1.3.11
 files:
-  - url: https://ghproxy.net/https://github.com/liuyunao937-afk/zuojiashou-release/releases/download/v1.3.10/zuojiashou-setup-1.3.10.exe
-    sha512: 4PP5mp7bwzG59iHh80QGRStQ1DIi5HQV6KC7LaHQin8DxJZRnus7AIzyx3OIvV/5S8DnEq/m9QOi0czRSOj4JQ==
-    size: 131845760
-path: zuojiashou-setup-1.3.10.exe
-sha512: 4PP5mp7bwzG59iHh80QGRStQ1DIi5HQV6KC7LaHQin8DxJZRnus7AIzyx3OIvV/5S8DnEq/m9QOi0czRSOj4JQ==
-releaseDate: '2026-10-16T05:10:30.144Z'
+  - url: https://ghproxy.net/https://github.com/liuyunao937-afk/zuojiashou-release/releases/download/v1.3.11/zuojiashou-setup-1.3.11.exe
+    sha512: m/CsVT+i1AboscPrHnAYKRH7vlf7Ca4MZyCOQKWVSxmYNTSY002Zpc81da5X7sw5obQX1I8I7+rYgSN0+DPpMQ==
+    size: 131845914
+path: zuojiashou-setup-1.3.11.exe
+sha512: m/CsVT+i1AboscPrHnAYKRH7vlf7Ca4MZyCOQKWVSxmYNTSY002Zpc81da5X7sw5obQX1I8I7+rYgSN0+DPpMQ==
+releaseDate: '2026-10-16T05:17:39.030Z'
 releaseNotes: |-
-  完整包支持：向量运行环境随软件文件夹相对定位（embed-runtime），无显卡电脑自动CPU模式
+  便携运行环境隔离用户目录依赖（PYTHONNOUSERSITE），任何电脑稳定
