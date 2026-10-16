@@ -1,10 +1,10 @@
-version: 1.3.9
+version: 1.3.10
 files:
-  - url: https://ghproxy.net/https://github.com/liuyunao937-afk/zuojiashou-release/releases/download/v1.3.9/zuojiashou-setup-1.3.9.exe
-    sha512: bDYUeMCjc9aA6gBdCbT8wjl6+/g7TdtMa1rgMkaJ1uq5g04IYbz+8N2AZRX7C9axSvft4Zqvv4NlaaD136zRcQ==
-    size: 123490515
-path: zuojiashou-setup-1.3.9.exe
-sha512: bDYUeMCjc9aA6gBdCbT8wjl6+/g7TdtMa1rgMkaJ1uq5g04IYbz+8N2AZRX7C9axSvft4Zqvv4NlaaD136zRcQ==
-releaseDate: '2026-10-15T23:11:16.396Z'
+  - url: https://ghproxy.net/https://github.com/liuyunao937-afk/zuojiashou-release/releases/download/v1.3.10/zuojiashou-setup-1.3.10.exe
+    sha512: 4PP5mp7bwzG59iHh80QGRStQ1DIi5HQV6KC7LaHQin8DxJZRnus7AIzyx3OIvV/5S8DnEq/m9QOi0czRSOj4JQ==
+    size: 131845760
+path: zuojiashou-setup-1.3.10.exe
+sha512: 4PP5mp7bwzG59iHh80QGRStQ1DIi5HQV6KC7LaHQin8DxJZRnus7AIzyx3OIvV/5S8DnEq/m9QOi0czRSOj4JQ==
+releaseDate: '2026-10-16T05:10:30.144Z'
 releaseNotes: |-
-  更新链路根治：检查走jsDelivr、安装包下载改自研Node直连（实测ghproxy防火墙掐Chromium指纹，Node直连畅通）、点击重启以更新拉起安装向导（ZCode同款）——任何代理环境下稳定
+  完整包支持：向量运行环境随软件文件夹相对定位（embed-runtime），无显卡电脑自动CPU模式
